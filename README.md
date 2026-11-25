@@ -1,9 +1,10 @@
+
 <!-- ================================================== -->
 <!--                  PROFILE BANNER                   -->
 <!-- ================================================== -->
 
 <p align="center">
-  <img src="./github-banner.png" alt="Alhaz Uddin Banner" width="100%" />
+  <img src="./github-banner1.png" alt="Alhaz Uddin Banner" width="100%" />
 </p>
 
 <!-- ================================================== -->
@@ -11,7 +12,62 @@
 <!-- ================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I+am+Alhaz+Uddin+%F0%9F%91%8B;Full-Stack+Web+Developer+in+Progress;Learning+Web+Development;Exploring+Modern+Web+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=950&lines=Hi%2C+I+am+Alhaz+Uddin+%F0%9F%91%8B;Full-Stack+Web+Developer+in+Progress;Learning+Web+Development;Exploring+Modern+Web+Technologies;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Animated Introduction" />
+</p>
+
+<!-- ================================================== -->
+<!--                    TAGLINE                         -->
+<!-- ================================================== -->
+
+<p align="center">
+  <b><i>Curiosity creates ideas. Code turns them into reality.</i></b>
+</p>
+
+<!-- ================================================== -->
+<!--                  SOCIAL LINKS                      -->
+<!-- ================================================== -->
+
+<p align="center">
+  <a href="mailto:alhazuddin365@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:alhazuddin365@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-00BCD4?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/alhazuddin07">
+    <img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/alhazuddin07">
+    <img src="https://img.shields.io/badge/MY_PROFILE-555555?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/alhazuddin07?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-555555?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/alhazuddin07?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- ================================================== -->
+<!--                GITHUB PROFILE STATS                -->
+<!-- ================================================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alhazuddin07&label=PROFILE+VISITS&color=0891B2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/alhazuddin07?label=FOLLOWERS&style=for-the-badge&color=4F46E5" />
+  <img src="https://img.shields.io/github/stars/alhazuddin07?label=STARS&style=for-the-badge&color=7C3AED" />
+</p>
+
+<br/>
+
+<!-- ================================================== -->
+<!--                DEVELOPER INFORMATION               -->
+<!-- ================================================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Bangladesh-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Full--Stack_Web_Development-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤝_Open_to-Collaboration-7C3AED?style=flat-square" />
 </p>
 
 ---
@@ -129,43 +185,75 @@ const alhaz = {
 
 ## 🧰 Skills & Concepts
 
-### 🎨 Frontend Development
-
-- Responsive Web Design
-- React Components, Props, State and Hooks
-- Next.js App Router
-- TypeScript and TSX
-- Tailwind CSS
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- API Integration and Data Fetching
-
-### ⚙️ Backend Development
-
-- Node.js and Express.js
-- RESTful API Development
-- CRUD Operations
-- Authentication and Authorization
-- JWT and Better Auth
-- Middleware and Error Handling
-- Third-party API Integration
-
-### 🗄️ Database
-
-- MongoDB
-- Database Design and CRUD
-- Data Modeling
-- Query Operations
-
-### 🚀 Development Workflow
-
-- Git and GitHub
-- Debugging and Problem Solving
-- Environment Configuration
-- Vercel Deployment
-- API Testing with Postman
+<table width="100%" border="1" cellpadding="12" cellspacing="8">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎨 Frontend Development</h3>
+        <img src="https://img.shields.io/badge/FRONTEND-4F46E5?style=flat-square" />
+      </div>
+      <ul>
+        <li>Responsive Web Design</li>
+        <li>React Components</li>
+        <li>Props, State and Hooks</li>
+        <li>Next.js App Router</li>
+        <li>TypeScript and TSX</li>
+        <li>Tailwind CSS</li>
+        <li>Server-Side Rendering (SSR)</li>
+        <li>Static Site Generation (SSG)</li>
+        <li>API Integration and Data Fetching</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚙️ Backend Development</h3>
+        <img src="https://img.shields.io/badge/BACKEND-7C3AED?style=flat-square" />
+      </div>
+      <ul>
+        <li>Node.js and Express.js</li>
+        <li>RESTful API Development</li>
+        <li>CRUD Operations</li>
+        <li>Authentication and Authorization</li>
+        <li>JWT and Better Auth</li>
+        <li>Middleware and Error Handling</li>
+        <li>Third-party API Integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🗄️ Database Management</h3>
+        <img src="https://img.shields.io/badge/DATABASE-0891B2?style=flat-square" />
+      </div>
+      <ul>
+        <li>MongoDB</li>
+        <li>Database Design</li>
+        <li>CRUD Operations</li>
+        <li>Data Modeling</li>
+        <li>Query Operations</li>
+        <li>Data Management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🚀 Development Workflow</h3>
+        <img src="https://img.shields.io/badge/WORKFLOW-16A34A?style=flat-square" />
+      </div>
+      <ul>
+        <li>Git and GitHub</li>
+        <li>Debugging and Problem Solving</li>
+        <li>Environment Configuration</li>
+        <li>Vercel Deployment</li>
+        <li>API Testing with Postman</li>
+        <li>Clean Code Practices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -175,11 +263,19 @@ A library management application where users can explore books, borrow books, an
 
 **Technologies:** Next.js, TypeScript, MongoDB, Better Auth, Tailwind CSS.
 
+🌐 [Live Demo](https://book-nook-frontend-lemon.vercel.app/)
+
+---
+
 ### 2. 💪 FITLOG
 
 A workout library application that helps users explore exercises and manage their workout plans.
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS, REST API.
+
+🌐 [Live Demo](https://assignment-number-6-seven.vercel.app/)
+
+---
 
 ### 3. 💼 Wanderlust
 
@@ -187,7 +283,8 @@ A job board application where users can explore job opportunities and manage job
 
 **Technologies:** Next.js, TypeScript, Express.js, MongoDB.
 
-🌐 [Live Website](https://wanderlust-frontend-phi.vercel.app/)
+🌐 [Live Demo](https://wanderlust-frontend-phi.vercel.app/)
+
 
 ---
 
@@ -220,32 +317,60 @@ pie showData
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Stats and Most Used Languages -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alhazuddin07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alhazuddin07&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="195"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhazuddin07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhazuddin07&layout=compact&theme=tokyonight&hide_border=true"
+    height="195"
+    alt="Most Used Languages"
+  />
 
 </div>
 
-<!-- ================= CONTRIBUTION STREAK ================= -->
+<!-- GitHub Contribution Streak -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alhazuddin07&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=alhazuddin07&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-<!-- ================= ABOUT STATISTICS ================= -->
+<!-- GitHub Contribution Activity Graph -->
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alhazuddin07&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+<!-- Statistics Information -->
 
 <details>
   <summary><b>📌 About these statistics</b></summary>
 
   <br/>
 
-  These cards depend on free third-party services. Values may be cached, unavailable, or calculated differently from GitHub's own contribution display. Language distribution is an estimate of repository code, not a measurement of programming skill.
+  - GitHub Stats display repository and contribution-related information.
+  - Most Used Languages shows the distribution of code across repositories.
+  - Contribution Streak displays consecutive days of contributions.
+  - Contribution Activity Graph visualizes contribution activity over time.
 
-  <br/><br/>
+  <br/>
 
-  **If a card is blank:** wait a few minutes and refresh, because the service may be rate-limited. A new account with few public commits will also show small numbers at first.
+  **Note:** These statistics are provided by third-party services. Updates may be delayed due to caching, and private repository activity may not be included.
 
 </details>
 
@@ -314,45 +439,70 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    subgraph F["Foundation"]
+    subgraph F[" "]
         direction TB
-        A["Programming basics"]
-        A1["HTML, CSS, JavaScript"]
+        A["Foundation"]
+        A1["Programming basics"]
+        A2["HTML, CSS,<br/>JavaScript"]
         A --> A1
+        A1 --> A2
     end
 
-    subgraph FE["Frontend"]
+    subgraph FE[" "]
         direction TB
-        B["React and Tailwind CSS"]
-        B1["Responsive, accessible UI"]
+        B["Frontend"]
+        B1["React and Tailwind CSS"]
+        B2["Responsive,<br/>accessible UI"]
         B --> B1
+        B1 --> B2
     end
 
-    subgraph BE["Backend"]
+    subgraph BE[" "]
         direction TB
-        C["Node.js and Express"]
-        C1["REST APIs and authentication"]
+        C["Backend"]
+        C1["Node.js and Express"]
+        C2["REST APIs and<br/>authentication"]
         C --> C1
+        C1 --> C2
     end
 
-    subgraph DB["Databases"]
+    subgraph DB[" "]
         direction TB
-        D["MongoDB"]
-        D1["Data modeling"]
+        D["Databases"]
+        D1["MongoDB and SQL"]
+        D2["Data modeling"]
         D --> D1
+        D1 --> D2
     end
 
-    subgraph P["Projects"]
+    subgraph P[" "]
         direction TB
-        E["Full-stack applications"]
-        E1["Deployment and documentation"]
+        E["Projects"]
+        E1["Full-stack<br/>applications"]
+        E2["Deployment and<br/>documentation"]
         E --> E1
+        E1 --> E2
     end
 
-    A1 --> B
-    B1 --> C
-    C1 --> D
-    D1 --> E
+    classDef foundation fill:#222222,stroke:#cccccc,color:#ffffff,stroke-width:1px
+    classDef frontend fill:#160000,stroke:#cccccc,color:#ffffff,stroke-width:1px
+    classDef backend fill:#4a103c,stroke:#cccccc,color:#ffffff,stroke-width:1px
+    classDef database fill:#40565d,stroke:#cccccc,color:#ffffff,stroke-width:1px
+    classDef projects fill:#59351f,stroke:#cccccc,color:#ffffff,stroke-width:1px
+
+    class A,A1,A2 foundation
+    class B,B1,B2 frontend
+    class C,C1,C2 backend
+    class D,D1,D2 database
+    class E,E1,E2 projects
+
+    style F fill:transparent,stroke:transparent
+    style FE fill:transparent,stroke:transparent
+    style BE fill:transparent,stroke:transparent
+    style DB fill:transparent,stroke:transparent
+    style P fill:transparent,stroke:transparent
+
+    linkStyle default stroke:#aaaaaa,stroke-width:1.5px
 ```
 
 ---
@@ -368,20 +518,15 @@ flowchart LR
 </p>
 
 <p align="center">
-
   <a href="mailto:alhazuddin365@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:alhazuddin365@gmail.com">
-    <img src="https://img.shields.io/badge/ALHAZ_UDDIN-4F46E5?style=for-the-badge" />
-  </a>
   <a href="https://github.com/alhazuddin07">
-    <img src="https://img.shields.io/badge/VISIT-GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/alhazuddin07?tab=repositories">
-    <img src="https://img.shields.io/badge/BROWSE-MY_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/MY_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </p>
 
 <br/>
