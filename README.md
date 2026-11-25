@@ -423,18 +423,6 @@ flowchart TD
 
 ---
 
-## 🧠 My Development Principles
-
-- 🔍 Always stay curious and keep learning.
-- 🧱 Build strong programming fundamentals.
-- 🧪 Learn by building real-world projects.
-- 🧹 Write clean and maintainable code.
-- 🐛 Debug, learn from mistakes, and improve.
-- 🤝 Collaborate and share knowledge.
-- 🚀 Stay consistent and never stop growing.
-
----
-
 ## 🎯 My Continuous Learning Journey
 
 ```mermaid
@@ -504,6 +492,47 @@ flowchart LR
 
     linkStyle default stroke:#aaaaaa,stroke-width:1.5px
 ```
+
+---
+
+### 🧠 My Development Principles
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Icon</th>
+        <th align="left">Principle</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">🔍</td>
+        <td>Stay curious and ask better questions.</td>
+      </tr>
+      <tr>
+        <td align="center">🧱</td>
+        <td>Build strong technical foundations.</td>
+      </tr>
+      <tr>
+        <td align="center">🧪</td>
+        <td>Experiment and learn from mistakes.</td>
+      </tr>
+      <tr>
+        <td align="center">🖌️</td>
+        <td>Write readable, maintainable code.</td>
+      </tr>
+      <tr>
+        <td align="center">🤝</td>
+        <td>Share knowledge and collaborate.</td>
+      </tr>
+      <tr>
+        <td align="center">🔄</td>
+        <td>Keep improving through practice.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
